@@ -1,5 +1,5 @@
+require 'delegate'
 require "logger"
-
 require "racecar/consumer"
 require "racecar/runner"
 require "racecar/config"
